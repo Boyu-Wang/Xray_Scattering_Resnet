@@ -1,0 +1,8 @@
+python==2.7.3
+tensorflow==1.4
+jupter
+joblib
+scipy
+sklearn
+progressbar2
+matplotlib
